@@ -1,0 +1,2 @@
+#This includes operators that treat integers as strings of binary bits and can come in handy if your Python code must deal with things 
+# like network packets ,serial ports or packed data produced by a C programme.
