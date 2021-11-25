@@ -11,14 +11,14 @@
 #resutl will be integer(7/2=3 ;7.0/2=3.0);data type of the result for // is still dependent on the operand types in 3.X : if either is float the result is float ;otherwise ,it is an
 #integer.
 
-# --------------------------------------Examples----------------------------------------------------
+# --------------------------------------Examples in python 3.0X----------------------------------------------------
 print(10/4)
 print(10/4.0)
 print(10//4)
 print(10//4.0)
 
 
-#------------------------------------------in python that would be------------------------------
+#------------------------------------------in python 2.0X that would be------------------------------
 # 10/4=2
 # 10/4.0=2.5
 # 10//4=2
