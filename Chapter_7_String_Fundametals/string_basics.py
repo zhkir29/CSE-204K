@@ -14,3 +14,17 @@ print(s)
 s= 'a\nb\tc'
 print(s)
 print(len(s))
+#raw strings:
+print(r"C:\new\test.spm")
+
+print("This is \newline character")
+print("This is \\ backslash character")
+print("This is \'single \'quotes")
+print("This is \"double quotes\"")
+print("This \b is for bell\a ")
+print("This is for \f formfeed")
+print("This is for \r carriage return")
+print("This is \t for horizontal tab")
+print("This is for \v vertical tab")
+print("\x91 hexadecimal value of the character")
+
